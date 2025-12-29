@@ -11,7 +11,6 @@ KEYWORDS = ["MOUNTAIN VIEW", "Mountain View", "DELUXE"]
 DATES_TO_CHECK = [
     {"check_in": "2026-04-06", "check_out": "2026-04-07"},
     {"check_in": "2026-04-07", "check_out": "2026-04-08"},
-    {"check_in": "2026-11-12", "check_out": "2026-11-13"},
 
 ]
 
