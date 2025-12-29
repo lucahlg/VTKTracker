@@ -6,7 +6,7 @@ from playwright.sync_api import sync_playwright
 BASE_URL = "https://booking.ezcms.vn/hotel/BeDetailHotel"
 HOTEL_CODE = "832C74"
 NTFY_TOPIC = "vtk_homestay_tracker"
-KEYWORDS = ["MOUNTAIN VIEW", "Mountain View", "DELUXE"]
+KEYWORDS = ["MOUNTAIN VIEW", "Mountain View", "DELUXE", "Superior", "Standard"]
 
 DATES_TO_CHECK = [
     {"check_in": "2026-04-06", "check_out": "2026-04-07"},
